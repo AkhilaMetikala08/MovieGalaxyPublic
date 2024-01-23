@@ -2,7 +2,8 @@
 MovieGalaxy is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
-![background]!(Capture.PNG)
+![background]![Capture](https://github.com/AkhilaMetikala08/MovieGalaxyPublic/assets/105187466/4990bf06-2461-4aac-a118-8c4cdd544bb0)
+
 
 <hr/>
 
